@@ -1,0 +1,15 @@
+name: example
+publish_to: none
+version: 0.0.1
+homepage: https://twitter.com/precious_tagy
+repository: https://github.com/venbrinoDev/ether_dart
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  ether_dart:
+    path: ../
+  http: ^1.1.0
+  web_socket_channel: ^2.2.0
+
