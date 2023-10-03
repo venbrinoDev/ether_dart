@@ -1,12 +1,13 @@
 name: ether_dart
 description: A libary that helps you generate memonic phrase, and connect to the etherium blockchain using web3dart Client 
-version: 0.0.1+1
-homepage: https://twitter.com/precious_tagy
+version: 0.0.1+2
+homepage: https://github.com/venbrinoDev/ether_dart
 repository: https://github.com/venbrinoDev/ether_dart
+issue_tracker: https://github.com/venbrinoDev/ether_dart/issues
 
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
  
 
 dependencies:

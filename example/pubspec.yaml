@@ -1,11 +1,12 @@
 name: example
 publish_to: none
 version: 0.0.1
-homepage: https://twitter.com/precious_tagy
+homepage: https://github.com/venbrinoDev/ether_dart
 repository: https://github.com/venbrinoDev/ether_dart
 
+
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
 
 dependencies:
   ether_dart:
